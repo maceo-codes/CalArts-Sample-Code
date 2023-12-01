@@ -1,0 +1,69 @@
+Song Title,Artist,BPM,Key,Year
+Call Me,Aretha Franklin,120,CM,1970
+Lean On Me,Bill Withers,75,CM,1972
+Corcovado,Getz-Gilberto-Jobim,130,CM,1964
+Buddy,Willie Nelson,72,C Major,1968
+Flamenco Sketches,Miles Davis,55,CM,1959
+September Rain,Makoto Matsushita,125,CM,1982
+Pastime Paradise,Stevie Wonder,80,CM,1976
+Speak No Evil,Wayne Shorter,140,Cm,1966
+Going In Circles -,The Friends Of Distinction,120,Cm,1969
+Zealots,Fugees,80,Cm,1996
+Coming Down from Love,Bobby Caldwell,100,C#m,1991
+Equinox,John Coltrane,115,C#m,1964
+Ain't No Mountain High Enough,Marvin Gaye,125,DM,1967
+Smooth Operator,Sade,120,Dm,1984
+I Wish You Were Here,Al Green,70,Dm,1975
+Paranoid Android,Radiohead,82 ,Dm,1997
+How Insensitive,Wes Montgomery,148, Dm,1966
+Time In A Bottle,Jim Croce,135,Dm,1972
+1980,Herb Alpert,70,Dm,1980
+The Sorcerer,Miles Davis,130,D#M,1967
+Me and Mrs.Jones,Billy Paul,68,D#M,1972
+How Deep Is Your Love,Bee Gees,106,D#M,1977
+Take Five,Dave Brubeck,170,D#m,1959
+Superstition,Stevie Wonder,100,D#m,1972
+Didn't Cha Know,Erykah Badu,135,D#m,2000
+Distant Lover,Marvin Gaye,140,EM,1973
+What's Going On,Marvin Gaye,100,EM,1971
+Make a Smile for Me,Bill Withers,87,EM,1974
+I Keep Forgettin' (Every Time You're Near),Michael McDonald,95,Em,1982
+Much Better Off,Smokey Robinson & The Miracles,132,Em,1968
+Keep Looking,Sade,93,Em,1988
+Expoobident,Lee Morgan,135,FM,1960
+Fogo do Sol,Marcos Valle,80,FM,1983
+For Sure,American Football,80,FM,1999
+The Way You Make Me Feel,Michael Jackson,115,FM,1987
+Send It On,D'Angelo,127,FM,2000
+Some Day My Prince Will Come,Miles Davis,157,FM,1961
+When Sunny Gets Blue,Donald Byrd,240-60,FM, 1963
+Alone Together,Kenny Dorham,62,Fm,1992
+All I Am,Heatwave,80,F#M,1981
+Ex-Factor,Lauren Hill,F#M,1998
+Kiss of Life,Sade,96,F#m,1992
+A Long Walk,Jill Scott,75,F#m,2000
+Fair Weather,Art Farmer,190,GM,1958
+For the Good Times,Al Green,60,GM,1972
+Between the Bars,Elliot Smith,135,Gm,1997
+San Juan Street,Deodato,95,Gm,1978
+Ceora,Lee Morgan,125,G#M,1965
+So In Love,Curtis Mayfield,120,G#M,1975
+Mr Wrong,Sade,115,AM,1985
+A Wonderful Yesterday,Willie Nelson,67,AM,1968
+Oh! Darling,The Beatles,175,AM,1969
+Funny How Time Slips Away,Willie Nelson,70,AM,1962
+Airbag,Radiohead,84,AM,1997
+Kiss,Prince,112,AM,1986
+Estrelar,Marcos Valle,103,Am,1983
+Love Music,Earth Wind & Fire,95,Am,1978
+My Perogative,Bobby Brown,110,Am,1988
+Me Myself and I,De La Soul,115,Am,1989
+Luck of Lucien -,A Tribe Called Quest,105,Am,1990
+Ordinary Guy,Joe Bataan,178,A#M,1973
+I Wish,Stevie Wonder,105,A#m,1976
+Space Cowboy,Jamiroquai,108,A#m,1994
+Steve Biko (Stir It Up) -,A Tribe Called Quest,95,A#m,1993
+Runnin', The Pharcyde,95, A#m,1995
+Sir Duke,Stevie Wonder,105,BM,1976
+Living For The City,Stevie Wonder,100,BM,1973
+In the Stone, Earth Wind & Fire,110,BM,1979
